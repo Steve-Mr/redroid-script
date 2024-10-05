@@ -1,10 +1,11 @@
 # Remote-Android Script
 
-This script adds Gapps, Magisk and libndk to redroid **without recompiling the entire image**
+This script adds Gapps, Magisk and libndk(**with blue archvie running patch from**  [waydroid community](https://github.com/waydroid/waydroid/issues/788#issuecomment-2167334937)) to redroid **without recompiling the entire image**
 If redroid-script doesn't work, please create an issue
 
 ## Dependencies
 - lzip
+- vim
 
 ## Specify container type
 
